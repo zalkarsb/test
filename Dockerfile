@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-LABEL maintainer "opsxcq@strm.sh"
+LABEL maintainer Sergei Z
 
 RUN apt-get update && \
     apt-get upgrade -y && \
