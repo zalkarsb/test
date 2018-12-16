@@ -11,7 +11,7 @@ $DBMS = 'MySQL';
 # Database variables
 #   WARNING: The database specified under db_database WILL BE ENTIRELY DELETED during setup.
 #   Please use a database dedicated to DVWA.
-$sf = new Violuke\Vault\ServiceFactory();
+#$sf = new Violuke\Vault\ServiceFactory();
 
 
 $_DVWA = array();
