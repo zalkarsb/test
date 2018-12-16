@@ -15,7 +15,7 @@ $sf = new Violuke\Vault\ServiceFactory();
 
 
 $_DVWA = array();
-$_DVWA[ 'db_server' ]   = '127.0.0.1';
+$_DVWA[ 'db_server' ]   = '172.17.0.3';
 $_DVWA[ 'db_database' ] = 'dvwa';
 $_DVWA[ 'db_user' ]     = 'nobody';
 $_DVWA[ 'db_password' ] = 'changeme';
