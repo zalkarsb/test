@@ -1,0 +1,2 @@
+sudo apt-get install oracle-java8-installer 
+            https://deb.pkgs.org/universal/opennms-stable-amd64/oracle-java8-installer_8u131-1~webupd8~2_all.deb.html 
